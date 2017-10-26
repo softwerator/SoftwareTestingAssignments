@@ -1,0 +1,19 @@
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Odev2\Odev2\obj\Debug\Odev2.csprojResolveAssemblyReference.cache
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Odev2\Odev2\obj\Debug\Odev2.MouseInTheLabyrinth.resources
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Odev2\Odev2\obj\Debug\Odev2.Properties.Resources.resources
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Odev2\Odev2\obj\Debug\Odev2.csproj.GenerateResource.Cache
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Odev2\Odev2\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Odev2\Odev2\obj\Debug\Odev2.pdb
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Yazılım Sınama\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Yazılım Sınama\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Yazılım Sınama\Odev2\Odev2\obj\Debug\Odev2.csprojResolveAssemblyReference.cache
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Yazılım Sınama\Odev2\Odev2\obj\Debug\Odev2.MouseInTheLabyrinth.resources
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Yazılım Sınama\Odev2\Odev2\obj\Debug\Odev2.Properties.Resources.resources
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Yazılım Sınama\Odev2\Odev2\obj\Debug\Odev2.csproj.GenerateResource.Cache
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Yazılım Sınama\Odev2\Odev2\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Yazılım Sınama\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\BurakcanPc\Documents\Visual Studio 2017\Projects\Yazılım Sınama\Odev2\Odev2\obj\Debug\Odev2.pdb
